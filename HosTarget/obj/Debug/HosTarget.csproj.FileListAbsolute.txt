@@ -1,0 +1,215 @@
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\HosTarget.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\HosTarget.pdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\HosTarget.HosTarget.apk
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\HosTarget.HosTarget-Signed.apk
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\SQLite-net.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\SQLitePCL.raw.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Xamarin.Controls.BarChart.Android.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\SQLite-net.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\HosTarget.dll
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\HosTarget.pdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\bin\HosTarget.HosTarget.apk
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\targetview.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\newtargets.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\addedittarget.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\tasks.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\taskstab.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\taskview.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\addedittask.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\about.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\dashboard.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\targetfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\targetslideactivity.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\main.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\values-v21\styles.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\values\strings.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\icon.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\green.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\grey.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\yellow.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\targetselector.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\values\colors.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\ic_tab_new_targets.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\menu\target_popup_menu.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\high.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\low.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\medium.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\splash_screen.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\splash.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\values\styles.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\menu\targetoptionmenu.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\plus_green.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\plus_green_16.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\plus_green_20.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\menu\tasksoptionmenu.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\back_24.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\filter.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\sort.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\info.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\splash_trans.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\add.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\delete.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\save.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\menu\addeditoptionmenu.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\chart.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\R.cs.flag
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\uploadflags.txt
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\HosTarget.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Java.Interop.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\Mono.Android.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\mscorlib.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.Core.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.Net.Http.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.Xml.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\HosTarget.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\SQLite-net.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\HosTarget.csprojResolveAssemblyReference.cache
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\takepictureview.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\newtargetsfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\inprogresstargetsfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\donetargetsfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\hometabsview.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\dashboard.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\btnadd.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\abactionbargradient.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\abactionbartabs.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\drawable\hos_logo.png
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\todotasksfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\inprogresstasksfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\donetasksfragment.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\tasktabsview.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\res\layout\dashboardtasks.xml
+D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Debug\HosTarget.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\HosTarget.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\HosTarget.pdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\HosTarget.HosTarget.apk
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\HosTarget.HosTarget-Signed.apk
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\SQLite-net.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Xamarin.Controls.BarChart.Android.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\HosTarget.csprojResolveAssemblyReference.cache
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\HosTarget.csproj.CoreCompileInputs.cache
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\HosTarget.dll
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\HosTarget.pdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\android\bin\HosTarget.HosTarget.apk
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\targetview.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\newtargets.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\addedittarget.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\tasks.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\taskstab.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\taskview.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\addedittask.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\about.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\dashboard.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\targetfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\targetslideactivity.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\takepictureview.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\newtargetsfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\inprogresstargetsfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\donetargetsfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\hometabsview.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\todotasksfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\inprogresstasksfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\donetasksfragment.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\tasktabsview.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\dashboardtasks.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\layout\main.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\values-v21\styles.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\values\strings.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\icon.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\green.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\grey.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\yellow.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\targetselector.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\values\colors.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\ic_tab_new_targets.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\menu\target_popup_menu.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\high.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\low.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\medium.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\splash.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\values\styles.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\menu\targetoptionmenu.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\plus_green.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\plus_green_16.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\plus_green_20.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\menu\tasksoptionmenu.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\back_24.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\filter.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\sort.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\info.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\splash_trans.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\add.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\delete.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\save.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\menu\addeditoptionmenu.xml
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\chart.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\dashboard.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\btnadd.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\abactionbargradient.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\abactionbartabs.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\res\drawable\hos_logo.png
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\R.cs.flag
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\obj\Debug\uploadflags.txt
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\mscorlib.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.Core.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.Xml.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Hossam\Source\Repos\HosTarget\HosTarget\HosTarget\bin\Debug\HosTarget.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\HosTarget.dll.mdb
+obj\Debug\linksrc\SQLite-net.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

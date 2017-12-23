@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Release\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Release\__library_projects__\Xamarin.Controls.BarChart.Android\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Release\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Release\__library_projects__\Xamarin.Controls.BarChart.Android\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Release\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Alcatel\Xamarin Apps\HosTarget\HosTarget\obj\Release\__library_projects__\Xamarin.Controls.BarChart.Android.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/resource_name"
+        android:title="string"
+        android:titleCondensed="string"
+        
+        android:showAsAction=""
+        android:alphabeticShortcut="string"
+        android:numericShortcut="string"/>
+  <item>
+    <menu>
+      <item />
+    </menu>
+  </item>
+</menu>

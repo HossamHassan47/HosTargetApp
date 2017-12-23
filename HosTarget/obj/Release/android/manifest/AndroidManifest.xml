@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="HosTarget.HosTarget" android:versionCode="1" android:versionName="1.1" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <application android:label="HOS Target" android:icon="@drawable/icon" android:debuggable="false" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:icon="@drawable/icon" android:label="HOS Targets" android:theme="@style/BlueTheme" android:name="md507e33987dafb594644d664ba872b7e1c.MainActivity" />
+    <activity android:label="About" android:name="md5fd538639a5ecb081ff9e68276d762bf8.AboutActivity" />
+    <activity android:label="AddEditTaskActivity" android:name="md5fd538639a5ecb081ff9e68276d762bf8.AddEditTaskActivity" />
+    <activity android:label="Add/Edit Target" android:name="md5fd538639a5ecb081ff9e68276d762bf8.AddEditTargetActivity" />
+    <activity android:label="My Targets - Dashboard" android:name="md5fd538639a5ecb081ff9e68276d762bf8.DashboardActivity" />
+    <activity android:label="DoneTargetsActivity" android:name="md5fd538639a5ecb081ff9e68276d762bf8.DoneTargetsActivity" />
+    <activity android:icon="@drawable/icon" android:label="Targets" android:name="md5fd538639a5ecb081ff9e68276d762bf8.HomeTabsActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:noHistory="true" android:name="md5fd538639a5ecb081ff9e68276d762bf8.SplashActivity" />
+    <activity android:label="Take Picture" android:name="md5fd538639a5ecb081ff9e68276d762bf8.TakePictureActivity" />
+    <activity android:label="Tasks" android:name="md5fd538639a5ecb081ff9e68276d762bf8.TasksMainActivity" />
+    <activity android:label="New" android:name="md5fd538639a5ecb081ff9e68276d762bf8.NewTargetsActivity" />
+    <activity android:label="Tasks" android:name="md5fd538639a5ecb081ff9e68276d762bf8.TasksTabActivity" />
+    <activity android:icon="@drawable/icon" android:label="HOS Targets" android:theme="@style/BlueTheme" android:name="md5fa2978345346ddcb65cb7f045601435a.TargetSlideActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="HosTarget.HosTarget.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <activity android:name="HosTarget.MainActivity">
+    <intent-filter>
+      <action android:name="android.intent.action.VIEW" />
+      <category android:name="android.intent.category.DEFAULT" />
+    </intent-filter>
+  </activity>
+</manifest>
